@@ -5,7 +5,7 @@ title: Taekho You
 description: >- # this means to ignore newlines until "baseurl:"
   Taekho You's webpage.
 baseurl: "/" # the subpath of the site
-url: "https://th-and-you.github.io" # the base hostname & protocol for the site
+url: "https://taekhoyou.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
