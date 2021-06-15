@@ -46,6 +46,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Excluded items
 exclude:
