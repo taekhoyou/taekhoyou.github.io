@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://th-and-you.github.io/sitemap.xml
+Sitemap: https://taekhoyou.github.io/sitemap.xml
