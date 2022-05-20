@@ -13,7 +13,7 @@ profile_picture:
   Main Research Interest: Complex System, Computational Social Science, Science of Science, and its applications.
 </p>
 <p>
-  Main Methodology:  Network analysis, Game theory, Natural language processing, etc.
+  Main Methodology:  Network analysis, Science of Science, Natural language processing, etc.
 </p>
 <p>
   <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: May.20.2022)
