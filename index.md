@@ -16,7 +16,7 @@ profile_picture:
   Main Methodology:  Network analysis, Game theory, Natural language processing, etc.
 </p>
 <p>
-  <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: Jun.09.2021)
+  <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: May.20.2022)
 </p>
 <hr>
 
