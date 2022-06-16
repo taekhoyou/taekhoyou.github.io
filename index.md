@@ -39,6 +39,7 @@ profile_picture:
   <li> <a href="https://isds.postech.ac.kr">Institute for Social Data Science</a> in <a href="https://postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea </li>
   <ul>
     <li> Research Associate Professor, Jun. 2022 - Present </li>
+  </ul>
   <li> <a href="http://aix.ssu.ac.kr">School of AI Convergence</a> in <a href="http://ssu.ac.kr">Soongsil University</a>, Republic of Korea </li>
   <ul>
     <li> Postdoctoral Fellow, May. 2021 - Feb. 2022 </li>
