@@ -13,7 +13,7 @@ profile_picture:
   Main Research Interest: Complex System, Computational Social Science, Science of Science, and its applications.
 </p>
 <p>
-  Main Methodology:  Network analysis, Natural language processing, etc.
+  Main Methodology:  Network analysis, Text Embedding, etc.
 </p>
 <p>
   <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: Feb.27.2023)
@@ -28,7 +28,7 @@ profile_picture:
     </ul>
   <li><b>M.S.</b> in Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), Feb. 2014</li>
     <ul>
-    <li>Ergonomics (advisor: Heecheon You) - <a href="http://edt.postech.ac.kr">EDT lab.</a></li>
+    <li>Ergonomics (advisor: Heecheon You) - <a href="http://edt.postech.ac.kr">Ergonomic Design Technology lab.</a></li>
     </ul>
   <li><b>B.S.</b> in Industrial and Management Engineering, Pohang University of Science and Technology (POSTECH), Feb. 2012</li>
 </ul>
