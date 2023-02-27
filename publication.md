@@ -4,13 +4,14 @@ title: Publications
 slug: /publication
 ---
 
-(last update: May.20.2022)
+(last update: Feb.27.2023)
 
 <h3> Recent 5 years </h3>
 <ul>
   <li>
-    <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">Disturbance of questionable publishing to academia</a><br>
-    <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J., & Jung, W.-S. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294.
+    <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J., & Jung, W.-S. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294. 
+    <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">[homepage]</a>
+    <a href="https://arxiv.org/abs/2106.15166">[arXiv]</a>
   </li>
   <li> 
     <a href="https://link.springer.com/article/10.1007/s40042-020-00051-5">Tracing the evolution of physics with a keyword co-occurrence network</a><br> 
@@ -28,11 +29,19 @@ slug: /publication
 <hr>
 <br>
 
+
+<h3> Working papers </h3>
+<ul>
+  <li><b>You, T.</b>, Park, J., Lee, J. Y., Yun, J. (2023) Auditing citation polarization during COVID-19 pandemic, <i>arXiv Preprint</i>. <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
+  <li>
+</ul>
+
 <h3> International Publications </h3>
 <ul>
   <li>
-    <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">Disturbance of questionable publishing to academia</a><br>
-    <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J., & Jung, W.-S. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294.
+    <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J., & Jung, W.-S. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294. 
+    <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">[homepage]</a>
+    <a href="https://arxiv.org/abs/2106.15166">[arXiv]</a>
   </li>
   <li> 
     <a href="https://link.springer.com/article/10.1007/s40042-020-00051-5">Tracing the evolution of physics with a keyword co-occurrence network</a><br> 
