@@ -38,7 +38,8 @@ slug: /publication
     <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J. (2023) Auditing citation polarization during COVID-19 pandemic, <i>arXiv Preprint</i>. 
     <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
   </li>
-  <li>
+  <li><b>You, T.</b>, Park, J., Yun, J. Country profile of questionable publishing <i>(in preparation)</i>
+  </li>
 </ul>
 
 <h3> International Publications </h3>
