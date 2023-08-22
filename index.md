@@ -7,7 +7,7 @@ profile_picture:
 
 <h2> About Me </h2>
 <p>
-  I am a research associate professor at <a href="http://isds.postech.ac.kr">Institution for Social Data Science</a> in <a href="https://www.postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea. I am interested in a broad range of academic and social phenomena. Now I am trying to answer how the academic system is organized, how the researchers grow up and survive in academia, and how do we use these understandings to make decision making. To do this, I use methodologies in complex system, network science, and machine learning.
+  I am a research assistant professor at <a href="http://isds.postech.ac.kr">Institution for Social Data Science</a> in <a href="https://www.postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea. I am interested in a broad range of academic and social phenomena. Now I am trying to answer how the academic system is organized, how the researchers grow up and survive in academia, and how do we use these understandings to make decision making. To do this, I use methodologies in complex system, network science, and machine learning.
 </p>
 <p>
   Main Research Interest: Complex System, Computational Social Science, Science of Science, and its applications.
@@ -36,9 +36,13 @@ profile_picture:
 
 <h3> Positions </h3>
 <ul>
+  <li> <a href="https://luddy.indiana.edu">Luddy School of Informatics, Computing, and Engineering</a> in <a href="https://www.iu.edu/index.html">Indiana University</a>, United States of America </li>
+  <ul>
+    <li> Visiting Research Scholar, Aug. 15 - Present </li>
+  </ul>
   <li> <a href="https://isds.postech.ac.kr">Institute for Social Data Science</a> in <a href="https://postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea </li>
   <ul>
-    <li> Research Associate Professor, Jun. 2022 - Present </li>
+    <li> Research Assistant Professor, Jun. 2022 - Present </li>
   </ul>
   <li> <a href="http://aix.ssu.ac.kr">School of AI Convergence</a> in <a href="http://ssu.ac.kr">Soongsil University</a>, Republic of Korea </li>
   <ul>
