@@ -17,8 +17,12 @@ slug: /presentation
 (last update: Aug.22.2023)
 <ul>
   <li>
+    Understanding the Evolution of Western Painting Art Using the Stable Diffusion Model<br>
+    Kim, J., Lee, B., <b>You, T.</b>, Yun, J. (2024). <i>NetSciX 2024</i>
+  </li>
+  <li>
     Citation polarization during the COVID-19 pandemic<br>
-    <b> You, T.</b>, Parj, J., Lee, J.Y., Yun, J. (2023). <i>IC2S2 2023</i>
+    <b> You, T.</b>, Park, J., Lee, J.Y., Yun, J. (2023). <i>IC2S2 2023</i>
   </li>
   <li>
     Collective profile of questionable publishing<br>
