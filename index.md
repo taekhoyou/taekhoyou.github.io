@@ -38,7 +38,7 @@ profile_picture:
 <ul>
   <li> <a href="https://luddy.indiana.edu">Luddy School of Informatics, Computing, and Engineering</a> in <a href="https://www.iu.edu/index.html">Indiana University</a>, United States of America </li>
   <ul>
-    <li> Visiting Research Scholar, Aug. 15 - Present </li>
+    <li> Visiting Research Scholar, Aug. 2023 - Present </li>
   </ul>
   <li> <a href="https://isds.postech.ac.kr">Institute for Social Data Science</a> in <a href="https://postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea </li>
   <ul>
