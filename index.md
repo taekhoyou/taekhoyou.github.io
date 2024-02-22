@@ -16,7 +16,7 @@ profile_picture:
   Main Methodology:  Network analysis, Text Embedding, etc.
 </p>
 <p>
-  <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: Feb.27.2023)
+  <a href="https://taekhoyou.github.io/CV_Taekho%20You.pdf">Download CV</a> (last update: Feb.20.2024)
 </p>
 <hr>
 
