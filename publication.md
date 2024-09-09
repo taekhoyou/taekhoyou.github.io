@@ -10,7 +10,7 @@ slug: /publication
 <ul>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
-    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]></a>
+    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]</a>
     <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
   </li>
   <li>
@@ -42,7 +42,7 @@ slug: /publication
 <ul>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
-    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]></a>
+    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]</a>
     <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
   </li>
   <li>
