@@ -18,7 +18,7 @@ slug: /presentation
 <ul>
   <li>
     Understanding the Creativity through Evolution of Western Painting Art Using the Stable Diffusion Model<br>
-    J. Kim, B. Lee, <b>T. You</b>, J. Yun (2024). <i>IC2S2 2024</i><br>
+    J. Kim, B. Lee, <b>T. You</b>, J. Yun (2024). <i>IC2S2 2024</i> 
     <a href="https://youtu.be/Suq63dlyrPU?si=xoN35aB7ypGdZqsk">[YouTube]</a>
   </li>
   <li>
@@ -31,7 +31,7 @@ slug: /presentation
   </li>
   <li>
     Citation polarization during the COVID-19 pandemic<br>
-    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023). <i>IC2S2 2023</i><br>
+    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023). <i>IC2S2 2023</i> 
     <a href="https://youtu.be/iGJ_n2qKjPA?si=Yter_hw-ii4eZUda">[YouTube]</a>
   </li>
   <li>
