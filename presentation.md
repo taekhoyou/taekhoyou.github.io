@@ -17,6 +17,11 @@ slug: /presentation
 (last update: Feb.20.2024)
 <ul>
   <li>
+    Understanding the Creativity through Evolution of Western Painting Art Using the Stable Diffusion Model<br>
+    J. Kim, B. Lee, <b>T. You</b>, J. Yun (2024). <i>IC2S2 2024</i><br>
+    <a href="https://youtu.be/Suq63dlyrPU?si=xoN35aB7ypGdZqsk">[YouTube]</a>
+  </li>
+  <li>
     Understanding the Evolution of Western Painting Art Using the Stable Diffusion Model<br>
     J. Kim, B. Lee, <b>T. You</b>, J. Yun (2024). <i>NetSciX 2024</i>
   </li>
@@ -26,7 +31,8 @@ slug: /presentation
   </li>
   <li>
     Citation polarization during the COVID-19 pandemic<br>
-    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023). <i>IC2S2 2023</i>
+    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023). <i>IC2S2 2023</i><br>
+    <a href="https://youtu.be/iGJ_n2qKjPA?si=Yter_hw-ii4eZUda">[YouTube]</a>
   </li>
   <li>
     Collective profile of questionable publishing<br>
@@ -48,4 +54,3 @@ slug: /presentation
      <b>T. You</b>, M. Kwon, H.-H. Jo, W.-S. Jung, S. K. Baek (2017). <i>2017 Korean Physical Society Spring Meeting</i>
   </li>
 </ul>
-<br>
