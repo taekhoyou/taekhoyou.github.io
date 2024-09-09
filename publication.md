@@ -4,10 +4,15 @@ title: Publications
 slug: /publication
 ---
 
-(last update: Feb.20.2024)
+(last update: Sep.9.2024)
 
 <h3> Recent 5 years </h3>
 <ul>
+  <li>
+    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
+    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]></a>
+    <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
+  </li>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun, & W.-S. Jung. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294. 
     <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">[homepage]</a>
@@ -18,15 +23,6 @@ slug: /publication
     <a href="https://link.springer.com/article/10.1007/s40042-020-00051-5">[homepage]</a>
     <a href="https://arxiv.org/abs/2010.06111">[arXiv]</a>
   </li>
-  <li>
-    <b>T. You</b>, & & W.-S. Jung. (2018). A System Dynamics Analysis of National R&D Performance Measurement System in Korea. <i>Industrial Engineering & Management Systems, 17</i>(4), 833-839.
-    <a href=""http://www.iemsjl.org/journal/article.php?code=64941"">[homepage]</a>
-    <a href="https://arxiv.org/abs/1901.05447">[arXiv]</a>
-  </li>
-  <li> 
-    <b>T. You</b>, M. Kwon, H.-H. Jo, W.-S. Jung. & S. K. Baek (2017). Chaos and unpredictability in evolution of cooperation in continuous time. <i>Physical Review E, 96</i>(6), 062310.
-    <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.062310">[homepage]</a>
-  </li>  
 </ul>
 <hr>
 <br>
@@ -35,19 +31,20 @@ slug: /publication
 <h3> Working papers </h3>
 <ul>
   <li>
-    S. Park, S. Park, <b>T. You</b>, J. Yun (2024) Social Links vs. Language Barriers: Decoding the Global Spread of Streaming Content, submitted, <i>KDD 2024</i>
+    S. Park, S. Park, <b>T. You</b>, J. Yun (2024) Social Links vs. Language Barriers: Decoding the Global Spread of Streaming Content, under review, <i>EPJ Data Science</i>
   </li>
   <li>
-    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023) Auditing citation polarization during the early COVID-19 pandemic, R&R, <i>Quantitative Science Studies </i>. 
-    <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
-  </li>
-  <li>
-    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023) Regional profile of questionable publishing, under review, <i>EPJ Data Science</i>, <a href="https://arxiv.org/abs/2301.01926">[arxiv]</a>
+    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023) Regional profile of questionable publishing, under review, <i>Scientometrics</i>, <a href="https://arxiv.org/abs/2301.01926">[arxiv]</a>
   </li>
 </ul>
 
 <h3> International Publications </h3>
 <ul>
+  <li>
+    <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
+    <a href="https://doi.org/10.1162/qss_a_00326">[homepage]></a>
+    <a href="https://arxiv.org/abs/2301.01926">[arXiv]</a>
+  </li>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun, & W.-S. Jung. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294. 
     <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">[homepage]</a>
