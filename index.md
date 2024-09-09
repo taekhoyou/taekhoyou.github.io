@@ -38,7 +38,7 @@ profile_picture:
 <ul>
   <li> <a href="https://luddy.indiana.edu">Luddy School of Informatics, Computing, and Engineering</a> in <a href="https://www.iu.edu/index.html">Indiana University</a>, United States of America </li>
   <ul>
-    <li> Visiting Research Scholar, Aug. 2023 - Present </li>
+    <li> Visiting Research Scholar, Aug. 2023 - Jul. 2024 </li>
   </ul>
   <li> <a href="https://isds.postech.ac.kr">Institute for Social Data Science</a> in <a href="https://postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea </li>
   <ul>
@@ -59,6 +59,10 @@ profile_picture:
 
 <h3> Publications </h3>
 <ul>
+  <li>
+    <a href="https://doi.org/10.1162/qss_a_00326">Auditing citation polarization during the early COVID-19 pandemic</a><br>
+    <b>T. You</b>, J. Y. Lee, J. Park, J. Yun (2024). Auditing citation polarization during the early COVID-19 pandemic. <i>Quantitative Science Stidues,</i> 1-33.
+  </li>
   <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">Disturbance of questionable publishing to academia</a><br>
     <b>You, T.</b>, Park, J., Lee, J. Y., Yun, J., & Jung, W.-S. (2022). Disturbance of questionable publishing to academia. <i>Journal of Informetrics, 16</i>(2), 101294.
@@ -94,7 +98,7 @@ profile_picture:
 <ul>
   <li> 
     Method and system for representative keywords in research field using keyword cooccurrence analysis<br>
-    <b>T. You</b>, O.-H. Kwon, J. Yoon, W.-S. Jung, Korean Patent No.10-2020-0039380. (Pending)
+    <b>T. You</b>, O.-H. Kwon, J. Yoon, W.-S. Jung, Korean Patent No.1024982940000. (Granted)
   </li>
 </ul>
 <hr>
