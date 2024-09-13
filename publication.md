@@ -31,7 +31,7 @@ slug: /publication
 <h3> Working papers </h3>
 <ul>
   <li>
-    S. Park, S. Park, <b>T. You</b>, J. Yun (2024) Social Links vs. Language Barriers: Decoding the Global Spread of Streaming Content, R&R, <i>Humanities and Social Science Communications</i>
+    S. Park, S. Park, <b>T. You</b>, J. Yun (2024) Social Links vs. Language Barriers: Decoding the Global Spread of Streaming Content, R&R, <i>Humanities and Social Science Communications</i>, <a href="https://arxiv.org/abs/2402.19329">[arxiv]</a>
   </li>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023) Regional profile of questionable publishing, under review, <i>Scientometrics</i>, <a href="https://arxiv.org/abs/2301.01926">[arxiv]</a>
