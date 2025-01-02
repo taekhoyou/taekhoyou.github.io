@@ -7,7 +7,7 @@ profile_picture:
 
 <h2> About Me </h2>
 <p>
-  I am a research assistant professor at <a href="http://isds.postech.ac.kr">Institution for Social Data Science</a> in <a href="https://www.postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea. I am interested in a broad range of academic and social phenomena. Now I am trying to answer how the academic system is organized, how the researchers grow up and survive in academia, and how do we use these understandings to make decision making. To do this, I use methodologies in complex system, network science, and machine learning.
+  I am a research assistant professor at <a href="https://dhcss.kaist.ac.kr">Center for Digital Humanities & Computational Social Sciences</a> in <a href="https://kaist.ac.kr">Korea Advanced Institute of Science and Technology</a>, Republic of Korea. I am interested in a broad range of academic and social phenomena. Now I am trying to answer how the academic system is organized, how the researchers grow up and survive in academia, and how do we use these understandings to make decision making. To do this, I use methodologies in complex system, network science, and machine learning.
 </p>
 <p>
   Main Research Interest: Complex System, Computational Social Science, Science of Science, and its applications.
@@ -36,13 +36,19 @@ profile_picture:
 
 <h3> Positions </h3>
 <ul>
+  <li>
+    <a href="https://dhcss.kaist.ac.kr">Center for Digital Humanities & Computational Social Sciences</a> in <a href="https://kaist.ac.kr">Korea Advanced Institute of Science and Technology</a>, Republic of Korea
+  </li>
+  <ul>
+    <li> Research Assistant Professor, Dec. 2024 - Current </li>
+  </ul>
   <li> <a href="https://luddy.indiana.edu">Luddy School of Informatics, Computing, and Engineering</a> in <a href="https://www.iu.edu/index.html">Indiana University</a>, United States of America </li>
   <ul>
     <li> Visiting Research Scholar, Aug. 2023 - Jul. 2024 </li>
   </ul>
   <li> <a href="https://isds.postech.ac.kr">Institute for Social Data Science</a> in <a href="https://postech.ac.kr">Pohang University of Science and Technology</a>, Republic of Korea </li>
   <ul>
-    <li> Research Assistant Professor, Jun. 2022 - Present </li>
+    <li> Research Assistant Professor, Jun. 2022 - Dec. 2024 </li>
   </ul>
   <li> <a href="http://aix.ssu.ac.kr">School of AI Convergence</a> in <a href="http://ssu.ac.kr">Soongsil University</a>, Republic of Korea </li>
   <ul>
@@ -61,7 +67,7 @@ profile_picture:
 <ul>
   <li>
     <a href="https://doi.org/10.1162/qss_a_00326">Auditing citation polarization during the early COVID-19 pandemic</a><br>
-    <b>T. You</b>, J. Y. Lee, J. Park, J. Yun (2024). Auditing citation polarization during the early COVID-19 pandemic. <i>Quantitative Science Stidues,</i> 1-33.
+    <b>T. You</b>, J. Y. Lee, J. Park, J. Yun (2024). Auditing citation polarization during the early COVID-19 pandemic. <i>Quantitative Science Stidues, 5</i>(4), 906-921.
   </li>
   <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S1751157722000463">Disturbance of questionable publishing to academia</a><br>
