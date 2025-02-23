@@ -66,6 +66,10 @@ profile_picture:
 <h3> Publications </h3>
 <ul>
   <li>
+    <a href="https://www.nature.com/articles/s41599-025-04400-2">Social links vs. language barriers: decoding the global spread of streaming content</a><br>
+    S. Park, S. Park, <b>T. You</b>, J. Yun (2025). Social links vs. language barriers: decoding the global spread of streaming content, <i>Humanities & Social Sciences Communications, 12</i>(1), 1-10.
+  </li>
+  <li>
     <a href="https://doi.org/10.1162/qss_a_00326">Auditing citation polarization during the early COVID-19 pandemic</a><br>
     <b>T. You</b>, J. Y. Lee, J. Park, J. Yun (2024). Auditing citation polarization during the early COVID-19 pandemic. <i>Quantitative Science Stidues, 5</i>(4), 906-921.
   </li>
