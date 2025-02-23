@@ -4,10 +4,15 @@ title: Publications
 slug: /publication
 ---
 
-(last update: Sep.9.2024)
+(last update: Feb.23.2025)
 
 <h3> Recent 5 years </h3>
 <ul>
+  <li>
+    S. Park, S. Park, <b>T. You</b>, J. Yun (2025). Social links vs. language barriers: decoding the global spread of streaming content, <i>Humanities & Social Sciences Communications, 12</i>(1), 1-10.
+    <a href="https://www.nature.com/articles/s41599-025-04400-2">[homepage]</a>
+    <a href="https://arxiv.org/abs/2402.19329">[arXiv]</a>
+  </li>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
     <a href="https://doi.org/10.1162/qss_a_00326">[homepage]</a>
@@ -31,15 +36,17 @@ slug: /publication
 <h3> Working papers </h3>
 <ul>
   <li>
-    S. Park, S. Park, <b>T. You</b>, J. Yun (2024) Social Links vs. Language Barriers: Decoding the Global Spread of Streaming Content, R&R, <i>Humanities and Social Science Communications</i>, <a href="https://arxiv.org/abs/2402.19329">[arxiv]</a>
-  </li>
-  <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2023) Regional profile of questionable publishing, under review, <i>Scientometrics</i>, <a href="https://arxiv.org/abs/2301.01926">[arxiv]</a>
   </li>
 </ul>
 
 <h3> International Publications </h3>
 <ul>
+    <li>
+    S. Park, S. Park, <b>T. You</b>, J. Yun (2025). Social links vs. language barriers: decoding the global spread of streaming content, <i>Humanities & Social Sciences Communications, 12</i>(1), 1-10.
+    <a href="https://www.nature.com/articles/s41599-025-04400-2">[homepage]</a>
+    <a href="https://arxiv.org/abs/2402.19329">[arXiv]</a>
+  </li>
   <li>
     <b>T. You</b>, J. Park, J. Y. Lee, J. Yun (2024) Auditing citation polarization during the early COVID-19 pandemic, <i>Quantitative Science Studies </i>, 1-33.
     <a href="https://doi.org/10.1162/qss_a_00326">[homepage]</a>
